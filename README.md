@@ -27,3 +27,5 @@ I'm a BTech ECE student at PES University. My favorite programming languages are
 - Email: srividyaprasad3@gmail.com
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=srividyaprasad&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srividyaprasad&layout=compact)
