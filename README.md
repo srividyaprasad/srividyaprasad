@@ -32,3 +32,5 @@ I'm a BTech ECE student at PES University. My favorite programming languages are
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srividyaprasad&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+![](https://raw.githubusercontent.com/srividyaprasad/github-stats/master/generated/overview.svg#gh-light-mode-only)
