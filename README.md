@@ -26,19 +26,15 @@ I'm a BTech ECE student at PES University. My favorite programming languages are
 - LinkedIn: [srividyaprasad](https://www.linkedin.com/in/srividyaprasad/)
 - Email: srividyaprasad3@gmail.com
 
-<a href="">
-<img src="https://github.com/srividyaprasad/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/srividyaprasad/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
-
-<h2 align="left">Stats:
+## 📈 Stats
+<h2 align="left">:
   
-![GitHub Streak](https://streak-stats.demolab.com?user=srividyaprasad&theme=tokyonight_duo)
+![GitHub Streak](https://streak-stats.demolab.com?user=srividyaprasad)
 
 <img src="https://github-stats-alpha.vercel.app/api?username=srividyaprasad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srividyaprasad&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srividyaprasad&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srividyaprasad) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srividyaprasad)
 
 <br>
   <p align="center">Profile Views <br>
