@@ -20,25 +20,27 @@ I'm a BTech ECE student at PES University. My favorite programming languages are
 
 - ROS and Gazebo
 - Control Systems on MATLAB
-
+- 
 ## 📫 How to Reach Me
 
 - LinkedIn: [srividyaprasad](https://www.linkedin.com/in/srividyaprasad/)
-- Email: srividyaprasad3@gmail.com
+- Email: srividyaprasad3@gmail.com          
 
 ## 📈 Stats
-<h2 align="left">:
+<h2 align="left">
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=srividyaprasad)
 
-<img src="https://github-stats-alpha.vercel.app/api?username=srividyaprasad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<img src="https://github-stats-alpha.vercel.app/api?username=srividyaprasad">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srividyaprasad) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srividyaprasad)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srividyaprasad"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srividyaprasad">
 
+</h2>
+
+<!--
 <br>
   <p align="center">Profile Views <br>
   <br>
   <img src="https://profile-counter.glitch.me/srividyaprasad/count.svg" /></p>
 <br>
-</h2>
+-->
