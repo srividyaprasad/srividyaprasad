@@ -1,46 +1,31 @@
-<!--
-**srividyaprasad/srividyaprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Srividya Prasad
 
-Here are some ideas to get you started:
+🎓 BTech ECE student at PES University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Srividya Prasad! 👋
+💻 Preferred programming languages are Python and C++
 
-I'm a BTech ECE student at PES University. My favorite programming languages are Python and C++, and I'm always excited to learn new robotic technologies.
-
-## 🌱 I'm Currently Learning and Working on
-
-- ROS and Gazebo
-- Control Systems on MATLAB
-- 
-## 📫 How to Reach Me
-
-- LinkedIn: [srividyaprasad](https://www.linkedin.com/in/srividyaprasad/)
-- Email: srividyaprasad3@gmail.com          
+🌱 Currently learning ROS, Gazebo, Control Systems, Motion Planning
+  
+📫 Reach out at
+  [LinkedIn](https://www.linkedin.com/in/srividyaprasad/), [Email](mailto:srividyaprasad3@gmail.com)          
 
 ## 📈 Stats
-<h2 align="left">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=srividyaprasad)
+<div align="left">
+ <img src="https://streak-stats.demolab.com?user=srividyaprasad" width="400">
+ </div>
+<div align="left">
+  <img src="https://github-stats-alpha.vercel.app/api?username=srividyaprasad" width="400">
+</div>
 
-<img src="https://github-stats-alpha.vercel.app/api?username=srividyaprasad">
+<div align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srividyaprasad" width="400">
+</div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srividyaprasad"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srividyaprasad">
+<div align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srividyaprasad" width="400">
+</div>
 
-</h2>
-
-<!--
-<br>
-  <p align="center">Profile Views <br>
-  <br>
-  <img src="https://profile-counter.glitch.me/srividyaprasad/count.svg" /></p>
-<br>
--->
+Profile Views
+<div align="left">
+  <img src="https://profile-counter.glitch.me/srividyaprasad/count.svg" width="400"/>
+</div>
