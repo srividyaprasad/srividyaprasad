@@ -2,7 +2,7 @@
 
 🎓 BTech ECE student at PES University
 
-💻 Preferred programming languages are Python and C++
+💻 Preferred programming languages are Python, C and C++
 
 🌱 Currently learning ROS, Gazebo, Control Systems, Motion Planning
   
