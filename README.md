@@ -4,7 +4,7 @@
 
 💻 Preferred programming languages are Python, C and C++
 
-🌱 Currently learning ROS, Gazebo, Control Systems, Motion Planning
+🌱 Currently learning Robotics and Computer Vision
   
 📫 Reach out at
   [LinkedIn](https://www.linkedin.com/in/srividyaprasad/), [Email](mailto:srividyaprasad3@gmail.com)          
