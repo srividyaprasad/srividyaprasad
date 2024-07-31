@@ -2,10 +2,6 @@
 
 🎓 BTech ECE student at PES University
 
-💻 Preferred programming languages are Python, C and C++
-
-🌱 Currently learning Robotics and Computer Vision
-  
 📫 Reach out at
   [LinkedIn](https://www.linkedin.com/in/srividyaprasad/), [Email](mailto:srividyaprasad3@gmail.com)          
 
